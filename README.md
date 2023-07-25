@@ -1,4 +1,4 @@
-# Recipe Website Project (The ODin Project)
+# Recipe Website Project (The Odin Project)
 
 ## Description
 
